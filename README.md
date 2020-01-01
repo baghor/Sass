@@ -2,8 +2,6 @@
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
 
-Plus, I made all the [course slides available for download](slides-students-C04.pdf), to make it easier to follow along the conceptual videos.
-
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
 ## FAQ
@@ -16,21 +14,11 @@ Plus, I made all the [course slides available for download](slides-students-C04.
 
 Unfortunately, this is quite common. I listed some possible fixes [in this document](npm-fixes.md).
 
-### Q3: I'm stuck in one of the projects. Where do I get help?
-
-**A:** Have you extensively tried fixing the problem on your own? If you failed at fixing it, please **post a detailled description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help as fast as possible! Please don't send me a personal message or email to fix coding problems.
-
-### Q4: You keep mentioning your resources page. Where can I find it?
-
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
 
 ### Q5: What VSCode theme are you using?
 
 **A:** I use Oceanic Next (dimmed bg) for all my coding and course production. [Here is my complete VSCode setup](vscode-setup.md).
 
-### Q6: You use codepens in some of the lectures. Where can I find them?
-
-**A:** They are all available on my [public codepen profile](https://codepen.io/jonasschmedtmann/pens/public/). The ones you're looking for might be buried under some newer ones.
 
 ### Q7: Can I see a final version of the course projects?
 
